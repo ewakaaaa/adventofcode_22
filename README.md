@@ -1,1 +1,1 @@
-# advent_of_code_22
+# adventofcode_22
